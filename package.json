@@ -28,7 +28,7 @@
     "@adonisjs/vow": "^1.0.17",
     "date-fns": "^2.2.1",
     "pg": "^7.12.1",
-    "set-value": "^3.0.1"
+    "set-value": "^4.0.1"
   },
   "devDependencies": {
     "eslint": "^6.4.0",
